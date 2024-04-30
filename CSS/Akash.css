@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-section{
+    background-color: #037ede;
+}
+/* banner-section */
+.banner-section{
+    background-color:#037ede ;
+}
+#Banner-login{
+    background-color: rgb(110, 222, 236);
+    border-radius: 20px;
+    /* max-width: 339px; */
+   
+} 
+.gold{
+    color: yellow;
+    font-weight: bold;
+}
+.banner-text{
+    color: #fff;
+}
+span{
+    font-size: 50px;
+}
+.btn{
+    border-radius: 10px;
+}
+.card{
+    border-radius: 20px;
+    padding: 10px;
+    background: #E9F4FE;
+    /* width: 339px; */
+    aspect-ratio: 1/0.8;
+}
+.card-text p{
+    font-size: 13px;
+}
+.card.card2 {
+    background-color: #037ede;
+}
+
+/* footer section */
+.footer a{
+    text-decoration: none;
+}
